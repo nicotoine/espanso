@@ -45,7 +45,10 @@ matches:
     replace : "après midi"
 
   - trigger : 'TT '
-    replace : "télétravail "
+    replace : "télétravail"
 
-  - trigger : 'c est '
-    replace : "c'est "
+  - trigger : 'c est'
+    replace : "c'est"
+
+  - trigger : 'slt'
+    replace : "salut"
