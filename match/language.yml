@@ -46,3 +46,6 @@ matches:
 
   - trigger : 'TT '
     replace : "télétravail "
+
+  - trigger : 'c est '
+    replace : "c'est "
