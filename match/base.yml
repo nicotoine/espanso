@@ -8,8 +8,6 @@ global_vars:
     params:
       echo: Devos
 matches:
-  - trigger: ":espanso"
-    replace: "Hi there!"
 
   - trigger:  ":me"
     replace : "{{name}} {{lastname}}"
