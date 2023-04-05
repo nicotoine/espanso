@@ -1,0 +1,12 @@
+matches:
+  - trigger: ":mysql start"
+    replace: "sudo /etc/init.d/mysql start"
+
+  - trigger: ":mysql stop"
+    replace: "sudo /etc/init.d/mysql stop"
+
+  - trigger: ":jkill"
+    replace: "taskkill /im \"java.exe\" /f"
+  
+  - trigger: ":tkill"
+    replace: "taskkill /f /pid"

@@ -1,0 +1,57 @@
+global_vars:
+  - name: name
+    type: echo
+    params:
+      echo: Nicolas
+  - name: lastname
+    type: echo
+    params:
+      echo: Devos
+matches:
+  - trigger: ":espanso"
+    replace: "Hi there!"
+
+  - trigger:  ":me"
+    replace : "{{name}} {{lastname}}"
+
+  - trigger: ":date"
+    replace: "{{mydate}}"
+    vars:
+      - name: mydate
+        type: date
+        params:
+          format: "%d/%m/%Y"
+
+
+  - trigger: ":now"
+    replace: "{{now}}"
+    vars:
+      - name: now
+        type: date
+        params:
+          format: "%H:%M:%S"
+  
+  - trigger: ":email"
+    replace: "{{output}}"
+    vars:
+      - name: output
+        type: choice
+        params:
+          values:
+            - "nicolas.devos@arondor.com"
+            - "devos_n@etna-alternance.net"
+            - "nicolasdevos.45@gmail.com"
+            - "nico.toine.45@gmail.com"
+
+
+  - trigger: :conf
+    replace: "%appdata%\\espanso\\match\\base.yml"
+
+  - trigger: ":ip"
+    replace: "{{output}}"
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: "curl 'https://api.ipify.org'"
+          shell: wsl

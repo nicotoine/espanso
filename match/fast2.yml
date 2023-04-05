@@ -1,0 +1,33 @@
+matches:
+  - trigger:  ":sig"
+    replace : "Regards, \n{{name}} {{lastname}}"
+
+  - trigger: "f²"
+    replace: "Fast2"
+
+  - trigger: :getLogs
+    replace : "Hi,\nSo that I can analyze, could you send me your broker, worker logs and your map file?\n\nYou will find them in the following paths :\n-`Fast2\\log\\broker.log`\n-`Fast2\\log\\worker.log`\n-`Fast2\\maps\\YourMap.xml`\n\nRegards, \n\nNicolas Devos"
+
+  - trigger : ":hope"
+    replace: "Does this solution meet your need? \nDon’t hesitate to answer me on this ticket to confirm that it works or if you need more information. "
+  
+  - trigger : ':fca'
+    replace : '%USERPROFILE%\Documents\Fast2\fast2-complete-package-2.8.0-CAPCA\startup-broker.bat'
+
+  - trigger : ':fcmp'
+    replace : '%USERPROFILE%\Documents\git\fast2\packaging\complete\target\fast2-complete-2.9.0-SNAPSHOT\startup-broker.bat'
+  
+  - trigger : ':ncode'
+    replace : '"%USERPROFILE%\AppData\Local\Programs\Microsoft VS Code\code.exe" -n'
+
+  - trigger : ':gof2'
+    replace : 'explorer "%USERPROFILE%\Documents\Fast2"'
+
+  - trigger : 'tjr'
+    replace : 'toujours'
+
+  - trigger : ':rfca'
+    replace: 'cmd /k taskkill /im "java.exe" /f & %USERPROFILE%\Documents\Fast2\fast2-complete-package-2.8.0-CAPCA\startup-broker.bat'
+
+  - tigger : ":close"
+    replace: 'Hi,\nCould you tell us if your issue has been resolved or if you would like further help about this subject?\n\nIf we don’t hear back from you about this subject before two weeks, will close that ticket, considering it is not an up-to-date priority/requirement for your team.\n\nFor any other problem, if necessary, we will let you open a new ticket and we will be happy to help you.'

@@ -1,0 +1,48 @@
+matches:
+  - trigger: ":&é"
+    replace : "É"
+
+  - trigger: "maj "
+    replace: "mise à jour "
+  
+  - trigger: "majs "
+    replace: "mises à jour "
+    
+  - trigger: "qqn"
+    replace: "quelqu'un"
+    
+  - trigger: "qqp"
+    replace: "quelque part"
+
+  - trigger: "qqch"
+    replace: "quelque chose"
+  
+  - trigger: "pcq"
+    replace: "parce que"
+
+  - trigger: "flower"
+    replace: "FlowerDocs"
+
+  - trigger: ":modif"
+    replace: "modification"
+
+  - trigger : 'tjr'
+    replace : 'toujours'
+
+  - trigger : 'ojd'
+    replace : "aujourd'hui"
+    
+  - trigger : 'stv'
+    replace : "si tu veux"
+
+  - trigger : 'lgtp'
+    replace : "longtemps"
+  
+  - trigger : 'bcp'
+    replace : "beaucoup"
+
+  - trigger : 'aprem'
+    replace : "après midi"
+
+  - trigger : 'TT '
+    replace : "télétravail "

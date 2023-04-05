@@ -1,0 +1,18 @@
+matches:
+  - trigger: "java8"
+    replace: "\"C:\\Program Files\\Java\\jdk1.8.0_251\\bin\\java\""
+
+  - trigger: "jar8"
+    replace: "\"C:\\Program Files\\Java\\jdk1.8.0_251\\bin\\java\" -jar"
+
+  - trigger: "java11"
+    replace: "\"C:\\Program Files\\Java\\jdk-11.0.16.1\\bin\\java\""
+
+  - trigger: "jar11"
+    replace: "\"C:\\Program Files\\Java\\jdk-11.0.16.1\\bin\\java\" -jar"
+  
+  - trigger: "java17"
+    replace: "\"C:\\Program Files\\Java\\jdk-17.0.5\\bin\\java\""
+  
+  - trigger: "jar17"
+    replace: "\"C:\\Program Files\\Java\\jdk-17.0.5\\bin\\java\" -jar"

@@ -1,0 +1,18 @@
+matches:
+  - trigger: ":cclg"
+    replace: "console.log({{clipboard}});"
+    vars:
+      - name: "clipboard"
+        type: "clipboard"
+
+  - trigger: ":clg"
+    replace: "console.log($|$);"
+
+  - trigger: ":log"
+    replace: "LOGGER.debug($|$);"
+
+  - trigger: ":clog"
+    replace: "LOGGER.debug({{clipboard}});"
+    vars:
+      - name: "clipboard"
+        type: "clipboard"
