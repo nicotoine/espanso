@@ -29,5 +29,5 @@ matches:
   - trigger : ':rfca'
     replace: 'cmd /k taskkill /im "java.exe" /f & %USERPROFILE%\Documents\Fast2\fast2-complete-package-2.8.0-CAPCA\startup-broker.bat'
 
-  - tigger : ":close"
-    replace: 'Hi,\nCould you tell us if your issue has been resolved or if you would like further help about this subject?\n\nIf we don’t hear back from you about this subject before two weeks, will close that ticket, considering it is not an up-to-date priority/requirement for your team.\n\nFor any other problem, if necessary, we will let you open a new ticket and we will be happy to help you.'
+  - trigger : ":close"
+    replace: "Hi,\nCould you tell us if your issue has been resolved or if you would like further help about this subject?\n\nIf we don’t hear back from you about this subject before two weeks, will close that ticket, considering it is not an up-to-date priority/requirement for your team.\n\nFor any other problem, if necessary, we will let you open a new ticket and we will be happy to help you."

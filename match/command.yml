@@ -1,8 +1,8 @@
 matches:
-  - trigger: ":mysql start"
+  - trigger: ":mstart"
     replace: "sudo /etc/init.d/mysql start"
 
-  - trigger: ":mysql stop"
+  - trigger: ":mstop"
     replace: "sudo /etc/init.d/mysql stop"
 
   - trigger: ":jkill"
