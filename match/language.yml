@@ -45,10 +45,19 @@ matches:
     replace : "après midi"
 
   - trigger : 'TT '
-    replace : "télétravail"
+    replace : "télétravail "
 
   - trigger : 'c est'
     replace : "c'est"
 
   - trigger : 'slt'
     replace : "salut"
+  
+  - trigger : ' we '
+    replace : ' week-end '
+  
+  - trigger : ' WE '
+    replace : ' week-end '
+ 
+  - trigger : 'cad ?'
+    replace : "c'est à dire ?"
