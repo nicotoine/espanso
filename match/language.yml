@@ -20,7 +20,7 @@ matches:
   - trigger: "pcq"
     replace: "parce que"
 
-  - trigger: "flower"
+  - trigger: " fd "
     replace: "FlowerDocs"
 
   - trigger: ":modif"

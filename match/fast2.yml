@@ -23,9 +23,6 @@ matches:
   - trigger : ':gof2'
     replace : 'explorer "%USERPROFILE%\Documents\Fast2"'
 
-  - trigger : 'tjr'
-    replace : 'toujours'
-
   - trigger : ':rfca'
     replace: 'cmd /k taskkill /im "java.exe" /f & %USERPROFILE%\Documents\Fast2\fast2-complete-package-2.8.0-CAPCA\startup-broker.bat'
 
