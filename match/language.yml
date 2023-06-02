@@ -61,3 +61,6 @@ matches:
  
   - trigger : 'cad ?'
     replace : "c'est à dire ?"
+
+  - trigger : 'tqt'
+    replace : "ne t'inquiète pas"
