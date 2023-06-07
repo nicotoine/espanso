@@ -1,0 +1,3 @@
+matches:
+  - trigger: ":ranlog"
+    replace: "tail -200f /var/log/apache2/error_ran.log"
