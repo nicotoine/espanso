@@ -2,12 +2,14 @@ matches:
   - trigger: ":&é"
     replace : "É"
 
-  - trigger: "maj "
-    replace: "mise à jour "
+  - trigger: "maj"
+    replace: "mise à jour"
+    word : true
   
-  - trigger: "majs "
+  - trigger: "majs"
     replace: "mises à jour "
-    
+    word : true
+
   - trigger: "qqn"
     replace: "quelqu'un"
     
@@ -20,8 +22,9 @@ matches:
   - trigger: "pcq"
     replace: "parce que"
 
-  - trigger: " fd "
+  - trigger: "flower"
     replace: "FlowerDocs"
+    word : true
 
   - trigger: ":modif"
     replace: "modification"
@@ -44,8 +47,13 @@ matches:
   - trigger : 'aprem'
     replace : "après midi"
 
-  - trigger : 'TT '
+  - trigger : 'TT'
+    replace : "télétravail"
+    word : true
+  
+  - trigger : 'tt'
     replace : "télétravail "
+    word : true
 
   - trigger : 'c est'
     replace : "c'est"
@@ -53,11 +61,13 @@ matches:
   - trigger : 'slt'
     replace : "salut"
   
-  - trigger : ' we '
-    replace : ' week-end '
+  - trigger : 'we'
+    replace : 'week-end'
+    word : true
   
-  - trigger : ' WE '
-    replace : ' week-end '
+  - trigger : 'WE'
+    replace : 'week-end'
+    word : true
  
   - trigger : 'cad ?'
     replace : "c'est à dire ?"
