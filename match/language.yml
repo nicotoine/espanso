@@ -64,3 +64,6 @@ matches:
 
   - trigger : 'tqt'
     replace : "ne t'inquiète pas"
+
+  - trigger : 'dsl'
+    replace : "désolé"
