@@ -83,5 +83,13 @@ matches:
     word : true
 
   - trigger : 'yavait'
-    replace : 'il y a'
+    replace : 'il y avait'
+    word : true
+
+  - trigger : 'mdp'
+    replace : 'mot de passe'
+    word : true
+
+  - trigger : 'a+'
+    replace : 'A plus tard'
     word : true
