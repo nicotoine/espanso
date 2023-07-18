@@ -77,3 +77,11 @@ matches:
 
   - trigger : 'dsl'
     replace : "désolé"
+
+  - trigger : 'ya'
+    replace : 'il y a'
+    word : true
+
+  - trigger : 'yavait'
+    replace : 'il y a'
+    word : true
