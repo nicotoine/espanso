@@ -12,7 +12,7 @@ matches:
 
   - trigger: "qqn"
     replace: "quelqu'un"
-    
+     
   - trigger: "qqp"
     replace: "quelque part"
 
