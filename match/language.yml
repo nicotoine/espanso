@@ -1743,3 +1743,16 @@ matches:
     word: true
     propagate_case: true
   
+  - triggers:  ["nico", "Nico", "nicolas"]
+    replace: 'Nicolas'
+    word: true
+
+  - trigger: 'ca'
+    replace: 'ça'
+    word: true
+    propagate_case: true
+
+  - trigger: 'ui'
+    replace: 'oui'
+    word: true
+    propagate_case: true
