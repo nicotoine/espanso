@@ -1756,3 +1756,13 @@ matches:
     replace: 'oui'
     word: true
     propagate_case: true
+
+  - trigger: 'apres'
+    replace: 'après'
+    word: true
+    propagate_case: true
+
+  - trigger : "interessant"
+    replace : "intéressant"
+    word: true
+    propagate_case: true
