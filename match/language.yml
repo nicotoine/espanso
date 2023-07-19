@@ -160,11 +160,6 @@ matches:
     propagate_case: true
     word : true
     
-  - trigger: 'sur'
-    replace: 'sûr'
-    propagate_case: true
-    word : true
-    
   - trigger: 'ile'
     replace: 'île'
     propagate_case: true
