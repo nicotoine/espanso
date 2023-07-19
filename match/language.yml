@@ -93,3 +93,1248 @@ matches:
   - trigger : 'a+'
     replace : 'A plus tard'
     word : true
+    
+  - trigger: 'Eleve'
+    replace: 'Élève'
+    propagate_case: true
+    word : true
+  - trigger: 'Cafe'
+    replace: 'Café'
+    propagate_case: true
+    word : true
+  - trigger: 'Hotel'
+    replace: 'Hôtel'
+    propagate_case: true
+    word : true
+  - trigger: 'Deja'
+    replace: 'Déjà'
+    propagate_case: true
+    word : true
+  - trigger: 'Creme'
+    replace: 'Crème'
+    propagate_case: true
+    word : true
+  - trigger: 'Pere'
+    replace: 'Père'
+    propagate_case: true
+    word : true
+  - trigger: 'Mere'
+    replace: 'Mère'
+    propagate_case: true
+    word : true
+  - trigger: 'Noel'
+    replace: 'Noël'
+    propagate_case: true
+    word : true
+  - trigger: 'Voila'
+    replace: 'Voilà'
+    propagate_case: true
+    word : true
+  - trigger: 'Bete'
+    replace: 'Bête'
+    propagate_case: true
+    word : true
+  - trigger: 'Cote'
+    replace: 'Côté'
+    propagate_case: true
+    word : true
+  - trigger: 'Leger'
+    replace: 'Léger'
+    propagate_case: true
+    word : true
+  - trigger: 'Fete'
+    replace: 'Fête'
+    propagate_case: true
+    word : true
+  - trigger: 'Sur'
+    replace: 'Sûr'
+    propagate_case: true
+    word : true
+  - trigger: 'Ile'
+    replace: 'Île'
+    propagate_case: true
+    word : true
+  - trigger: 'Foret'
+    replace: 'Forêt'
+    propagate_case: true
+    word : true
+  - trigger: 'Ou'
+    replace: 'Où'
+    propagate_case: true
+    word : true
+  - trigger: 'Moise'
+    replace: 'Moïse'
+    propagate_case: true
+    word : true
+  - trigger: 'Hopital'
+    replace: 'Hôpital'
+    propagate_case: true
+    word : true
+  - trigger: 'Pole'
+    replace: 'Pôle'
+    propagate_case: true
+    word : true
+  - trigger: 'Neon'
+    replace: 'Néon'
+    propagate_case: true
+    word : true
+  - trigger: 'The'
+    replace: 'Thé'
+    propagate_case: true
+    word : true
+  - trigger: 'Cite'
+    replace: 'Cité'
+    propagate_case: true
+    word : true
+  - trigger: 'Pate'
+    replace: 'Pâté'
+    propagate_case: true
+    word : true
+  - trigger: 'Fee'
+    replace: 'Fée'
+    propagate_case: true
+    word : true
+  - trigger: 'Repete'
+    replace: 'Répété'
+    propagate_case: true
+    word : true
+  - trigger: 'Annee'
+    replace: 'Année'
+    propagate_case: true
+    word : true
+  - trigger: 'Cure'
+    replace: 'Curé'
+    propagate_case: true
+    word : true
+  - trigger: 'Du'
+    replace: 'Dû'
+    propagate_case: true
+    word : true
+  - trigger: 'Ete'
+    replace: 'Été'
+    propagate_case: true
+    word : true
+  - trigger: 'Demode'
+    replace: 'Démodé'
+    propagate_case: true
+    word : true
+  - trigger: 'Journee'
+    replace: 'Journée'
+    propagate_case: true
+    word : true
+  - trigger: 'Meme'
+    replace: 'Même'
+    propagate_case: true
+    word : true
+  - trigger: 'Depot'
+    replace: 'Dépôt'
+    propagate_case: true
+    word : true
+  - trigger: 'Neglige'
+    replace: 'Négligé'
+    propagate_case: true
+    word : true
+  - trigger: 'Etiquette'
+    replace: 'Étiquette'
+    propagate_case: true
+    word : true
+  - trigger: 'Celebrite'
+    replace: 'Célébrité'
+    propagate_case: true
+    word : true
+  - trigger: 'Arome'
+    replace: 'Arôme'
+    propagate_case: true
+    word : true
+  - trigger: 'Cote'
+    replace: 'Côte'
+    propagate_case: true
+    word : true
+  - trigger: 'Cle'
+    replace: 'Clé'
+    propagate_case: true
+    word : true
+  - trigger: 'Naif'
+    replace: 'Naïf'
+    propagate_case: true
+    word : true
+  - trigger: 'Tache'
+    replace: 'Tâche'
+    propagate_case: true
+    word : true
+  - trigger: 'Pale'
+    replace: 'Pâle'
+    propagate_case: true
+    word : true
+  - trigger: 'Moique'
+    replace: 'Moïque'
+    propagate_case: true
+    word : true
+  - trigger: 'Gene'
+    replace: 'Gêné'
+    propagate_case: true
+    word : true
+  - trigger: 'Patisserie'
+    replace: 'Pâtisserie'
+    propagate_case: true
+    word : true
+  - trigger: 'Generique'
+    replace: 'Générique'
+    propagate_case: true
+    word : true
+  - trigger: 'Aloes'
+    replace: 'Aloès'
+    propagate_case: true
+    word : true
+  - trigger: 'Role'
+    replace: 'Rôle'
+    propagate_case: true
+    word : true
+  - trigger: 'Aine'
+    replace: 'Aîné'
+    propagate_case: true
+    word : true
+  - trigger: 'Benin'
+    replace: 'Bénin'
+    propagate_case: true
+    word : true
+  - trigger: 'Exegese'
+    replace: 'Exégèse'
+    propagate_case: true
+    word : true
+  - trigger: 'Equipe'
+    replace: 'Équipe'
+    propagate_case: true
+    word : true
+  - trigger: 'Benefice'
+    replace: 'Bénéfice'
+    propagate_case: true
+    word : true
+  - trigger: 'Nenuphar'
+    replace: 'Nénuphar'
+    propagate_case: true
+    word : true
+  - trigger: 'Lacher'
+    replace: 'Lâcher'
+    propagate_case: true
+    word : true
+  - trigger: 'Lepre'
+    replace: 'Lèpre'
+    propagate_case: true
+    word : true
+  - trigger: 'Maitre'
+    replace: 'Maître'
+    propagate_case: true
+    word : true
+  - trigger: 'Pate'
+    replace: 'Pâte'
+    propagate_case: true
+    word : true
+  - trigger: 'Cout'
+    replace: 'Coût'
+    propagate_case: true
+    word : true
+  - trigger: 'Precede'
+    replace: 'Précédé'
+    propagate_case: true
+    word : true
+  - trigger: 'Devoue'
+    replace: 'Dévoué'
+    propagate_case: true
+    word : true
+  - trigger: 'Velo'
+    replace: 'Vélo'
+    propagate_case: true
+    word : true
+  - trigger: 'Boeuf'
+    replace: 'Bœuf'
+    propagate_case: true
+    word : true
+  - trigger: 'Fele'
+    replace: 'Fêlé'
+    propagate_case: true
+    word : true
+  - trigger: 'Leve'
+    replace: 'Lève'
+    propagate_case: true
+    word : true
+  - trigger: 'Coute'
+    replace: 'Coûte'
+    propagate_case: true
+    word : true
+  - trigger: 'Gene'
+    replace: 'Gêne'
+    propagate_case: true
+    word : true
+  - trigger: 'Neve'
+    replace: 'Névé'
+    propagate_case: true
+    word : true
+  - trigger: 'Nenie'
+    replace: 'Nénie'
+    propagate_case: true
+    word : true
+  - trigger: 'Theme'
+    replace: 'Thème'
+    propagate_case: true
+    word : true
+  - trigger: 'Ecole'
+    replace: 'École'
+    propagate_case: true
+    word : true
+  - trigger: 'Peche'
+    replace: 'Pêche'
+    propagate_case: true
+    word : true
+  - trigger: 'Paturage'
+    replace: 'Pâturage'
+    propagate_case: true
+    word : true
+  - trigger: 'Abime'
+    replace: 'Abîmé'
+    propagate_case: true
+    word : true
+  - trigger: 'Probleme'
+    replace: 'Problème'
+    propagate_case: true
+    word : true
+  - trigger: 'Evenement'
+    replace: 'Événement'
+    propagate_case: true
+    word : true
+  - trigger: 'Devot'
+    replace: 'Dévôt'
+    propagate_case: true
+    word : true
+  - trigger: 'Aime'
+    replace: 'Aimé'
+    propagate_case: true
+    word : true
+  - trigger: 'Prospere'
+    replace: 'Prospère'
+    propagate_case: true
+    word : true
+  - trigger: 'Hate'
+    replace: 'Hâte'
+    propagate_case: true
+    word : true
+  - trigger: 'Ilot'
+    replace: 'Îlot'
+    propagate_case: true
+    word : true
+  - trigger: 'Provoque'
+    replace: 'Provoqué'
+    propagate_case: true
+    word : true
+  - trigger: 'Feta'
+    replace: 'Fêta'
+    propagate_case: true
+    word : true
+  - trigger: 'Penalite'
+    replace: 'Pénalité'
+    propagate_case: true
+    word : true
+  - trigger: 'Fut'
+    replace: 'Fût'
+    propagate_case: true
+    word : true
+  - trigger: 'Ainee'
+    replace: 'Aînée'
+    propagate_case: true
+    word : true
+  - trigger: 'Ineluctable'
+    replace: 'Inéluctable'
+    propagate_case: true
+    word : true
+  - trigger: 'Acces'
+    replace: 'Accès'
+    propagate_case: true
+    word : true
+  - trigger: 'Allege'
+    replace: 'Allégé'
+    propagate_case: true
+    word : true
+  - trigger: 'Baionnette'
+    replace: 'Baîonnette'
+    propagate_case: true
+    word : true
+  - trigger: 'Buche'
+    replace: 'Bûche'
+    propagate_case: true
+    word : true
+  - trigger: 'Cedre'
+    replace: 'Cèdre'
+    propagate_case: true
+    word : true
+  - trigger: 'Celebre'
+    replace: 'Célèbre'
+    propagate_case: true
+    word : true
+  - trigger: 'Demele'
+    replace: 'Démêlé'
+    propagate_case: true
+    word : true
+  - trigger: 'Ecarte'
+    replace: 'Écarté'
+    propagate_case: true
+    word : true
+  - trigger: 'Eclair'
+    replace: 'Éclair'
+    propagate_case: true
+    word : true
+  - trigger: 'Eclat'
+    replace: 'Éclat'
+    propagate_case: true
+    word : true
+  - trigger: 'Ecrase'
+    replace: 'Écrasé'
+    propagate_case: true
+    word : true
+  - trigger: 'Edition'
+    replace: 'Édition'
+    propagate_case: true
+    word : true
+  - trigger: 'Efface'
+    replace: 'Effacé'
+    propagate_case: true
+    word : true
+  - trigger: 'Egaux'
+    replace: 'Égaux'
+    propagate_case: true
+    word : true
+  - trigger: 'Elegant'
+    replace: 'Élégant'
+    propagate_case: true
+    word : true
+  - trigger: 'Eloquent'
+    replace: 'Éloquent'
+    propagate_case: true
+    word : true
+  - trigger: 'Elu'
+    replace: 'Élu'
+    propagate_case: true
+    word : true
+  - trigger: 'Emacie'
+    replace: 'Émacié'
+    propagate_case: true
+    word : true
+  - trigger: 'Emousse'
+    replace: 'Émoussé'
+    propagate_case: true
+    word : true
+  - trigger: 'Enerve'
+    replace: 'Énervé'
+    propagate_case: true
+    word : true
+  - trigger: 'Epais'
+    replace: 'Épais'
+    propagate_case: true
+    word : true
+  - trigger: 'Eperdu'
+    replace: 'Éperdu'
+    propagate_case: true
+    word : true
+  - trigger: 'Ephemere'
+    replace: 'Éphémère'
+    propagate_case: true
+    word : true
+  - trigger: 'Epi'
+    replace: 'Épi'
+    propagate_case: true
+    word : true
+  - trigger: 'Epine'
+    replace: 'Épine'
+    propagate_case: true
+    word : true
+  - trigger: 'Episode'
+    replace: 'Épisode'
+    propagate_case: true
+    word : true
+  - trigger: 'Epoux'
+    replace: 'Époux'
+    propagate_case: true
+    word : true
+  - trigger: 'Epreuve'
+    replace: 'Épreuve'
+    propagate_case: true
+    word : true
+  - trigger: 'Epuise'
+    replace: 'Épuisé'
+    propagate_case: true
+    word : true
+  - trigger: 'Equite'
+    replace: 'Équité'
+    propagate_case: true
+    word : true
+  - trigger: 'Equipe'
+    replace: 'Équipé'
+    propagate_case: true
+    word : true
+  - trigger: 'Equiper'
+    replace: 'Équiper'
+    propagate_case: true
+    word : true
+  - trigger: 'Etang'
+    replace: 'Étang'
+    propagate_case: true
+    word : true
+  - trigger: 'Etat'
+    replace: 'État'
+    propagate_case: true
+    word : true
+  - trigger: 'Etendre'
+    replace: 'Étendre'
+    propagate_case: true
+    word : true
+  - trigger: 'Eternel'
+    replace: 'Éternel'
+    propagate_case: true
+    word : true
+  - trigger: 'Eternuer'
+    replace: 'Éternuer'
+    propagate_case: true
+    word : true
+  - trigger: 'Ethique'
+    replace: 'Éthique'
+    propagate_case: true
+    word : true
+  - trigger: 'Etroit'
+    replace: 'Étroit'
+    propagate_case: true
+    word : true
+  - trigger: 'Etude'
+    replace: 'Étude'
+    propagate_case: true
+    word : true
+  - trigger: 'Evaluer'
+    replace: 'Évaluer'
+    propagate_case: true
+    word : true
+  - trigger: 'Evase'
+    replace: 'Évasé'
+    propagate_case: true
+    word : true
+  - trigger: 'Evasion'
+    replace: 'Évasion'
+    propagate_case: true
+    word : true
+  - trigger: 'Eventail'
+    replace: 'Éventail'
+    propagate_case: true
+    word : true
+  - trigger: 'Eviter'
+    replace: 'Éviter'
+    propagate_case: true
+    word : true
+  - trigger: 'Executer'
+    replace: 'Exécuter'
+    propagate_case: true
+    word : true
+  - trigger: 'Fache'
+    replace: 'Fâché'
+    propagate_case: true
+    word : true
+  - trigger: 'Facheux'
+    replace: 'Fâcheux'
+    propagate_case: true
+    word : true
+  - trigger: 'Felicite'
+    replace: 'Félicité'
+    propagate_case: true
+    word : true
+  - trigger: 'Feminin'
+    replace: 'Féminin'
+    propagate_case: true
+    word : true
+  - trigger: 'Fievre'
+    replace: 'Fièvre'
+    propagate_case: true
+    word : true
+  - trigger: 'Flute'
+    replace: 'Flûte'
+    propagate_case: true
+    word : true
+  - trigger: 'Fraicheur'
+    replace: 'Fraîcheur'
+    propagate_case: true
+    word : true
+  - trigger: 'Frequenter'
+    replace: 'Fréquenter'
+    propagate_case: true
+    word : true
+  - trigger: 'Froler'
+    replace: 'Frôler'
+    propagate_case: true
+    word : true
+  - trigger: 'Fumee'
+    replace: 'Fumée'
+    propagate_case: true
+    word : true
+  - trigger: 'Gaite'
+    replace: 'Gaîté'
+    propagate_case: true
+    word : true
+  - trigger: 'Gater'
+    replace: 'Gâter'
+    propagate_case: true
+    word : true
+  - trigger: 'Gateau'
+    replace: 'Gâteau'
+    propagate_case: true
+    word : true
+  - trigger: 'Gemir'
+    replace: 'Gémir'
+    propagate_case: true
+    word : true
+  - trigger: 'General'
+    replace: 'Général'
+    propagate_case: true
+    word : true
+  - trigger: 'Generosite'
+    replace: 'Générosité'
+    propagate_case: true
+    word : true
+  - trigger: 'Genial'
+    replace: 'Génial'
+    propagate_case: true
+    word : true
+  - trigger: 'Gener'
+    replace: 'Gêner'
+    propagate_case: true
+    word : true
+  - trigger: 'Gerant'
+    replace: 'Gérant'
+    propagate_case: true
+    word : true
+  - trigger: 'Gerer'
+    replace: 'Gérer'
+    propagate_case: true
+    word : true
+  - trigger: 'Gite'
+    replace: 'Gîte'
+    propagate_case: true
+    word : true
+  - trigger: 'Grace'
+    replace: 'Grâce'
+    propagate_case: true
+    word : true
+  - trigger: 'Greve'
+    replace: 'Grève'
+    propagate_case: true
+    word : true
+  - trigger: 'Guerir'
+    replace: 'Guérir'
+    propagate_case: true
+    word : true
+  - trigger: 'Ideal'
+    replace: 'Idéal'
+    propagate_case: true
+    word : true
+  - trigger: 'Immediat'
+    replace: 'Immédiat'
+    propagate_case: true
+    word : true
+  - trigger: 'Immortalite'
+    replace: 'Immortalité'
+    propagate_case: true
+    word : true
+  - trigger: 'Imperatif'
+    replace: 'Impératif'
+    propagate_case: true
+    word : true
+  - trigger: 'Ingredient'
+    replace: 'Ingrédient'
+    propagate_case: true
+    word : true
+  - trigger: 'Inoui'
+    replace: 'Inouï'
+    propagate_case: true
+    word : true
+  - trigger: 'Inserer'
+    replace: 'Insérer'
+    propagate_case: true
+    word : true
+  - trigger: 'Interet'
+    replace: 'Intérêt'
+    propagate_case: true
+    word : true
+  - trigger: 'Integrer'
+    replace: 'Intégrer'
+    propagate_case: true
+    word : true
+  - trigger: 'Intrepide'
+    replace: 'Intrépide'
+    propagate_case: true
+    word : true
+  - trigger: 'Jamais'
+    replace: 'Jâmais'
+    propagate_case: true
+    word : true
+  - trigger: 'Joute'
+    replace: 'Joûte'
+    propagate_case: true
+    word : true
+  - trigger: 'Liberer'
+    replace: 'Libérer'
+    propagate_case: true
+    word : true
+  - trigger: 'Lycee'
+    replace: 'Lycée'
+    propagate_case: true
+    word : true
+  - trigger: 'Male'
+    replace: 'Mâle'
+    propagate_case: true
+    word : true
+  - trigger: 'Mache'
+    replace: 'Mâche'
+    propagate_case: true
+    word : true
+  - trigger: 'Malgre'
+    replace: 'Malgré'
+    propagate_case: true
+    word : true
+  - trigger: 'Manege'
+    replace: 'Manège'
+    propagate_case: true
+    word : true
+  - trigger: 'Marie'
+    replace: 'Marié'
+    propagate_case: true
+    word : true
+  - trigger: 'Mat'
+    replace: 'Mât'
+    propagate_case: true
+    word : true
+  - trigger: 'Matinee'
+    replace: 'Matinée'
+    propagate_case: true
+    word : true
+  - trigger: 'Mediter'
+    replace: 'Méditer'
+    propagate_case: true
+    word : true
+  - trigger: 'Menager'
+    replace: 'Ménager'
+    propagate_case: true
+    word : true
+  - trigger: 'Memoire'
+    replace: 'Mémoire'
+    propagate_case: true
+    word : true
+  - trigger: 'Merite'
+    replace: 'Mérité'
+    propagate_case: true
+    word : true
+  - trigger: 'Meticuleux'
+    replace: 'Méticuleux'
+    propagate_case: true
+    word : true
+  - trigger: 'Metro'
+    replace: 'Métro'
+    propagate_case: true
+    word : true
+  - trigger: 'Mur'
+    replace: 'Mûr'
+    propagate_case: true
+    word : true
+  - trigger: 'Murir'
+    replace: 'Mûrir'
+    propagate_case: true
+    word : true
+  - trigger: 'Naivement'
+    replace: 'Naïvement'
+    propagate_case: true
+    word : true
+  - trigger: 'OEuvre'
+    replace: 'Œuvre'
+    propagate_case: true
+    word : true
+  - trigger: 'OEuf'
+    replace: 'Œuf'
+    propagate_case: true
+    word : true
+  - trigger: 'OEillet'
+    replace: 'Œillet'
+    propagate_case: true
+    word : true
+  - trigger: 'OEillade'
+    replace: 'Œillade'
+    propagate_case: true
+    word : true
+  - trigger: 'OEillere'
+    replace: 'Œillère'
+    propagate_case: true
+    word : true
+  - trigger: 'OEnologue'
+    replace: 'Œnologue'
+    propagate_case: true
+    word : true
+  - trigger: 'OEsophage'
+    replace: 'Œsophage'
+    propagate_case: true
+    word : true
+  - trigger: 'OEnologie'
+    replace: 'Œnologie'
+    propagate_case: true
+    word : true
+  - trigger: 'OEnophile'
+    replace: 'Œnophile'
+    propagate_case: true
+    word : true
+  - trigger: 'OEnotheque'
+    replace: 'Œnothèque'
+    propagate_case: true
+    word : true
+  - trigger: 'OEnometre'
+    replace: 'Œnomètre'
+    propagate_case: true
+    word : true
+  - trigger: 'OEnanthique'
+    replace: 'Œnanthique'
+    propagate_case: true
+    word : true
+  - trigger: 'OEdeme'
+    replace: 'Œdème'
+    propagate_case: true
+    word : true
+  - trigger: 'OEnolatre'
+    replace: 'Œnolâtre'
+    propagate_case: true
+    word : true
+  - trigger: 'OEil'
+    replace: 'Œil'
+    propagate_case: true
+    word : true
+  - trigger: 'OEdipe'
+    replace: 'Œdipe'
+    propagate_case: true
+    word : true
+  - trigger: 'OEstrogene'
+    replace: 'Œstrogène'
+    propagate_case: true
+    word : true
+  - trigger: 'OEnotourisme'
+    replace: 'Œnotourisme'
+    propagate_case: true
+    word : true
+  - trigger: 'Peche'
+    replace: 'Pêché'
+    propagate_case: true
+    word : true
+  - trigger: 'Penal'
+    replace: 'Pénal'
+    propagate_case: true
+    word : true
+  - trigger: 'Penetrer'
+    replace: 'Pénétrer'
+    propagate_case: true
+    word : true
+  - trigger: 'Peril'
+    replace: 'Péril'
+    propagate_case: true
+    word : true
+  - trigger: 'Peripherique'
+    replace: 'Périphérique'
+    propagate_case: true
+    word : true
+  - trigger: 'Pediatrie'
+    replace: 'Pédiatrie'
+    propagate_case: true
+    word : true
+  - trigger: 'Pedestre'
+    replace: 'Pédestre'
+    propagate_case: true
+    word : true
+  - trigger: 'Pedagogie'
+    replace: 'Pédagogie'
+    propagate_case: true
+    word : true
+  - trigger: 'Pedant'
+    replace: 'Pédant'
+    propagate_case: true
+    word : true
+  - trigger: 'Pepite'
+    replace: 'Pépite'
+    propagate_case: true
+    word : true
+  - trigger: 'Peremptoire'
+    replace: 'Péremptoire'
+    propagate_case: true
+    word : true
+  - trigger: 'Peplum'
+    replace: 'Péplum'
+    propagate_case: true
+    word : true
+  - trigger: 'Petillant'
+    replace: 'Pétillant'
+    propagate_case: true
+    word : true
+  - trigger: 'Petrole'
+    replace: 'Pétrole'
+    propagate_case: true
+    word : true
+  - trigger: 'Petition'
+    replace: 'Pétition'
+    propagate_case: true
+    word : true
+  - trigger: 'Petrir'
+    replace: 'Pétrir'
+    propagate_case: true
+    word : true
+  - trigger: 'Proner'
+    replace: 'Prôner'
+    propagate_case: true
+    word : true
+  - trigger: 'Precipice'
+    replace: 'Précipice'
+    propagate_case: true
+    word : true
+  - trigger: 'Precieux'
+    replace: 'Précieux'
+    propagate_case: true
+    word : true
+  - trigger: 'Preciser'
+    replace: 'Préciser'
+    propagate_case: true
+    word : true
+  - trigger: 'Predire'
+    replace: 'Prédire'
+    propagate_case: true
+    word : true
+  - trigger: 'Premediter'
+    replace: 'Préméditer'
+    propagate_case: true
+    word : true
+  - trigger: 'Preparer'
+    replace: 'Préparer'
+    propagate_case: true
+    word : true
+  - trigger: 'Present'
+    replace: 'Présent'
+    propagate_case: true
+    word : true
+  - trigger: 'Presider'
+    replace: 'Présider'
+    propagate_case: true
+    word : true
+  - trigger: 'Pretendre'
+    replace: 'Prétendre'
+    propagate_case: true
+    word : true
+  - trigger: 'Prevenir'
+    replace: 'Prévenir'
+    propagate_case: true
+    word : true
+  - trigger: 'Preter'
+    replace: 'Prêter'
+    propagate_case: true
+    word : true
+  - trigger: 'Prevoir'
+    replace: 'Prévoir'
+    propagate_case: true
+    word : true
+  - trigger: 'Prone'
+    replace: 'Prône'
+    propagate_case: true
+    word : true
+  - trigger: 'Priere'
+    replace: 'Prière'
+    propagate_case: true
+    word : true
+  - trigger: 'Prive'
+    replace: 'Privé'
+    propagate_case: true
+    word : true
+  - trigger: 'Programme'
+    replace: 'Programmé'
+    propagate_case: true
+    word : true
+  - trigger: 'Propriete'
+    replace: 'Propriété'
+    propagate_case: true
+    word : true
+  - trigger: 'Proteger'
+    replace: 'Protéger'
+    propagate_case: true
+    word : true
+  - trigger: 'Proteine'
+    replace: 'Protéine'
+    propagate_case: true
+    word : true
+  - trigger: 'Pueril'
+    replace: 'Puéril'
+    propagate_case: true
+    word : true
+  - trigger: 'Penible'
+    replace: 'Pénible'
+    propagate_case: true
+    word : true
+  - trigger: 'Peniche'
+    replace: 'Péniche'
+    propagate_case: true
+    word : true
+  - trigger: 'Penis'
+    replace: 'Pénis'
+    propagate_case: true
+    word : true
+  - trigger: 'Penultieme'
+    replace: 'Pénultième'
+    propagate_case: true
+    word : true
+  - trigger: 'Penombre'
+    replace: 'Pénombre'
+    propagate_case: true
+    word : true
+  - trigger: 'Penetrant'
+    replace: 'Pénétrant'
+    propagate_case: true
+    word : true
+  - trigger: 'Pejoratif'
+    replace: 'Péjoratif'
+    propagate_case: true
+    word : true
+  - trigger: 'Pedoncule'
+    replace: 'Pédoncule'
+    propagate_case: true
+    word : true
+  - trigger: 'Peripetie'
+    replace: 'Péripétie'
+    propagate_case: true
+    word : true
+  - trigger: 'Perennite'
+    replace: 'Pérennité'
+    propagate_case: true
+    word : true
+  - trigger: 'Petitionnaire'
+    replace: 'Pétitionnaire'
+    propagate_case: true
+    word : true
+  - trigger: 'Petrolier'
+    replace: 'Pétrolier'
+    propagate_case: true
+    word : true
+  - trigger: 'Petitionner'
+    replace: 'Pétitionner'
+    propagate_case: true
+    word : true
+  - trigger: 'Petrochimie'
+    replace: 'Pétrochimie'
+    propagate_case: true
+    word : true
+  - trigger: 'Petrographie'
+    replace: 'Pétrographie'
+    propagate_case: true
+    word : true
+  - trigger: 'Peronisme'
+    replace: 'Péronisme'
+    propagate_case: true
+    word : true
+  - trigger: 'Peroniste'
+    replace: 'Péroniste'
+    propagate_case: true
+    word : true
+  - trigger: 'Peronnelle'
+    replace: 'Péronnelle'
+    propagate_case: true
+    word : true
+  - trigger: 'Perussis'
+    replace: 'Pérussis'
+    propagate_case: true
+    word : true
+  - trigger: 'Pericliter'
+    replace: 'Péricliter'
+    propagate_case: true
+    word : true
+  - trigger: 'Petrochimiste'
+    replace: 'Pétrochimiste'
+    propagate_case: true
+    word : true
+  - trigger: 'Petrolifere'
+    replace: 'Pétrolifère'
+    propagate_case: true
+    word : true
+  - trigger: 'Petrolochimie'
+    replace: 'Pétrolochimie'
+    propagate_case: true
+    word : true
+  - trigger: 'Petun'
+    replace: 'Pétun'
+    propagate_case: true
+    word : true
+  - trigger: 'Petune'
+    replace: 'Pétune'
+    propagate_case: true
+    word : true
+  - trigger: 'Petalisme'
+    replace: 'Pétalisme'
+    propagate_case: true
+    word : true
+  - trigger: 'Petaliste'
+    replace: 'Pétaliste'
+    propagate_case: true
+    word : true
+  - trigger: 'Petaud'
+    replace: 'Pétaud'
+    propagate_case: true
+    word : true
+  - trigger: 'Petaouchnok'
+    replace: 'Pétaouchnok'
+    propagate_case: true
+    word : true
+  - trigger: 'Petarader'
+    replace: 'Pétarader'
+    propagate_case: true
+    word : true
+  - trigger: 'Petarade'
+    replace: 'Pétarade'
+    propagate_case: true
+    word : true
+  - trigger: 'Petomanie'
+    replace: 'Pétomanie'
+    propagate_case: true
+    word : true
+  - trigger: 'Petoule'
+    replace: 'Pétoule'
+    propagate_case: true
+    word : true
+  - trigger: 'Petaouchnoque'
+    replace: 'Pétaouchnoque'
+    propagate_case: true
+    word : true
+  - trigger: 'Petouschnok'
+    replace: 'Pétouschnok'
+    propagate_case: true
+    word : true
+  - trigger: 'Petaquine'
+    replace: 'Pétaquine'
+    propagate_case: true
+    word : true
+  - trigger: 'Peteux'
+    replace: 'Péteux'
+    propagate_case: true
+    word : true
+  - trigger: 'Peteuse'
+    replace: 'Péteuse'
+    propagate_case: true
+    word : true
+  - trigger: 'Petocher'
+    replace: 'Pétocher'
+    propagate_case: true
+    word : true
+  - trigger: 'Petoncle'
+    replace: 'Pétoncle'
+    propagate_case: true
+    word : true
+  - trigger: 'Petonner'
+    replace: 'Pétonner'
+    propagate_case: true
+    word : true
+  - trigger: 'Petochon'
+    replace: 'Pétochon'
+    propagate_case: true
+    word : true
+  - trigger: 'Petochonne'
+    replace: 'Pétochonne'
+    propagate_case: true
+    word : true
+  - trigger: 'Petoche'
+    replace: 'Pétoche'
+    propagate_case: true
+    word : true
+  - trigger: 'Petoire'
+    replace: 'Pétoire'
+    propagate_case: true
+    word : true
+  - trigger: 'Petoir'
+    replace: 'Pétoir'
+    propagate_case: true
+    word : true
+  - trigger: 'Peton'
+    replace: 'Péton'
+    propagate_case: true
+    word : true
+  - trigger: 'Petole'
+    replace: 'Pétole'
+    propagate_case: true
+    word : true
+  - trigger: 'Perouse'
+    replace: 'Pérouse'
+    propagate_case: true
+    word : true
+  - trigger: 'Perissol'
+    replace: 'Périssol'
+    propagate_case: true
+    word : true
+  - trigger: 'Perigee'
+    replace: 'Périgée'
+    propagate_case: true
+    word : true
+  - trigger: 'Perigone'
+    replace: 'Périgone'
+    propagate_case: true
+    word : true
+  - trigger: 'Perilleux'
+    replace: 'Périlleux'
+    propagate_case: true
+    word : true
+  - trigger: 'Periglaciaire'
+    replace: 'Périglaciaire'
+    propagate_case: true
+    word : true
+  - trigger: 'Perissologie'
+    replace: 'Périssologie'
+    propagate_case: true
+    word : true
+  - trigger: 'Periderme'
+    replace: 'Périderme'
+    propagate_case: true
+    word : true
+  - trigger: 'Perenite'
+    replace: 'Pérénité'
+    propagate_case: true
+    word : true
+  - trigger: 'Peridotite'
+    replace: 'Péridotite'
+    propagate_case: true
+    word : true
+  - trigger: 'Perichondre'
+    replace: 'Périchondre'
+    propagate_case: true
+    word : true
+  - trigger: 'Perichetie'
+    replace: 'Périchétie'
+    propagate_case: true
+    word : true
+  - trigger: 'Perisperme'
+    replace: 'Périsperme'
+    propagate_case: true
+    word : true
+  - trigger: 'Perinee'
+    replace: 'Périnée'
+    propagate_case: true
+    word : true
+  - trigger: 'Perigueux'
+    replace: 'Périgueux'
+    propagate_case: true
+    word : true
+  - trigger: 'Peridium'
+    replace: 'Péridium'
+    propagate_case: true
+    word : true
+  - trigger: 'Pericarde'
+    replace: 'Péricarde'
+    propagate_case: true
+    word : true
+  - trigger: 'Perinatalite'
+    replace: 'Périnatalité'
+    propagate_case: true
+    word : true
+  - trigger: 'Petard'
+    replace: 'Pétard'
+    propagate_case: true
+    word : true
+  - trigger: 'Petale'
+    replace: 'Pétale'
+    propagate_case: true
+    word : true
