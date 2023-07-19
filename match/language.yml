@@ -1997,3 +1997,8 @@ matches:
     replace: 'hameçonner'
     word: true
     propagate_case: true
+
+  - trigger : 'cense'
+    replace : 'censé'
+    word : true
+    propagate_case: true

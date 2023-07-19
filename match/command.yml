@@ -10,3 +10,13 @@ matches:
   
   - trigger: ":tkill"
     replace: "taskkill /f /pid"
+
+
+  - trigger: ":greet"
+    form: |
+      Hey [[name]],
+      [[text]]
+      Happy Birthday!
+    form_fields:
+      text:
+        multiline: true
