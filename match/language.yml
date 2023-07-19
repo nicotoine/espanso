@@ -1766,3 +1766,234 @@ matches:
     replace : "intéressant"
     word: true
     propagate_case: true
+
+
+  - trigger: 'facade'
+    replace: 'façade'
+    word: true
+    propagate_case: true
+
+  - trigger: 'garcon'
+    replace: 'garçon'
+    word: true
+    propagate_case: true
+
+  - trigger: 'recu'
+    replace: 'reçu'
+    word: true
+    propagate_case: true
+
+  - trigger: 'macon'
+    replace: 'maçon'
+    word: true
+    propagate_case: true
+
+  - trigger: 'francais'
+    replace: 'français'
+    word: true
+    propagate_case: true
+
+  - trigger: 'glacon'
+    replace: 'glaçon'
+    word: true
+    propagate_case: true
+
+  - trigger: 'tracage'
+    replace: 'traçage'
+    word: true
+    propagate_case: true
+
+  - trigger: 'poussiere'
+    replace: 'poussière'
+    word: true
+    propagate_case: true
+
+  - trigger: 'couter'
+    replace: 'coûter'
+    word: true
+    propagate_case: true
+
+  - trigger: 'forcat'
+    replace: 'forçat'
+    word: true
+    propagate_case: true
+
+  - trigger: 'elephant'
+    replace: 'éléphant'
+    word: true
+    propagate_case: true
+
+  - trigger: 'perce'
+    replace: 'percé'
+    word: true
+    propagate_case: true
+
+  - trigger: 'decu'
+    replace: 'déçu'
+    word: true
+    propagate_case: true
+
+  - trigger: 'hamecon'
+    replace: 'hameçon'
+    word: true
+    propagate_case: true
+
+  - trigger: 'enfaconner'
+    replace: 'enfaçonner'
+    word: true
+    propagate_case: true
+
+  - trigger: 'precaution'
+    replace: 'précaution'
+    word: true
+    propagate_case: true
+
+  - trigger: 'pecher'
+    replace: 'pêcher'
+    word: true
+    propagate_case: true
+
+  - trigger: 'glacage'
+    replace: 'glaçage'
+    word: true
+    propagate_case: true
+
+  - trigger: 'forcement'
+    replace: 'forcément'
+    word: true
+    propagate_case: true
+
+  - trigger: 'cone'
+    replace: 'cône'
+    word: true
+    propagate_case: true
+
+  - trigger: 'reconnaitre'
+    replace: 'reconnaître'
+    word: true
+    propagate_case: true
+
+  - trigger: 'desinfecter'
+    replace: 'désinfecter'
+    word: true
+    propagate_case: true
+
+  - trigger: 'flaner'
+    replace: 'flâner'
+    word: true
+    propagate_case: true
+
+  - trigger: 'effacable'
+    replace: 'effaçable'
+    word: true
+    propagate_case: true
+
+  - trigger: 'recolter'
+    replace: 'récolter'
+    word: true
+    propagate_case: true
+
+  - trigger: 'lycee'
+    replace: 'lycée'
+    word: true
+    propagate_case: true
+
+  - trigger: 'trebucher'
+    replace: 'trébucher'
+    word: true
+    propagate_case: true
+
+  - trigger: 'accelerer'
+    replace: 'accélérer'
+    word: true
+    propagate_case: true
+
+  - trigger: 'delicieux'
+    replace: 'délicieux'
+    word: true
+    propagate_case: true
+
+  - trigger: 'cloture'
+    replace: 'clôture'
+    word: true
+    propagate_case: true
+
+  - trigger: 'interceder'
+    replace: 'intercéder'
+    word: true
+    propagate_case: true
+
+  - trigger: 'commerages'
+    replace: 'commérages'
+    word: true
+    propagate_case: true
+
+  - trigger: 'cadence'
+    replace: 'cadencé'
+    word: true
+    propagate_case: true
+
+  - trigger: 'declaration'
+    replace: 'déclaration'
+    word: true
+    propagate_case: true
+
+  - trigger: 'depuceler'
+    replace: 'dépuceler'
+    word: true
+    propagate_case: true
+
+  - trigger: 'remplacant'
+    replace: 'remplaçant'
+    word: true
+    propagate_case: true
+
+  - trigger: 'recuser'
+    replace: 'récuser'
+    word: true
+    propagate_case: true
+
+  - trigger: 'inacheve'
+    replace: 'inachevé'
+    word: true
+    propagate_case: true
+
+  - trigger: 'precis'
+    replace: 'précis'
+    word: true
+    propagate_case: true
+
+  - trigger: 'concu'
+    replace: 'conçu'
+    word: true
+    propagate_case: true
+
+  - trigger: 'vice versa'
+    replace: 'vice-versa'
+    word: true
+    propagate_case: true
+
+  - trigger: 'abreger'
+    replace: 'abréger'
+    word: true
+    propagate_case: true
+
+  - trigger: 'facher'
+    replace: 'fâcher'
+    word: true
+    propagate_case: true
+
+  - trigger: 'dedicacer'
+    replace: 'dédicacer'
+    word: true
+    propagate_case: true
+
+  - trigger: 'depecher'
+    replace: 'dépêcher'
+    word: true
+    propagate_case: true
+
+  - trigger: 'hameconner'
+    replace: 'hameçonner'
+    word: true
+    propagate_case: true
