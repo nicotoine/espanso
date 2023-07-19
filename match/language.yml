@@ -5,22 +5,28 @@ matches:
   - trigger: "maj"
     replace: "mise à jour"
     word : true
+    propagate_case: true
   
   - trigger: "majs"
     replace: "mises à jour "
     word : true
+    propagate_case: true
 
   - trigger: "qqn"
     replace: "quelqu'un"
+    propagate_case: true
      
   - trigger: "qqp"
     replace: "quelque part"
+    propagate_case: true
 
   - trigger: "qqch"
     replace: "quelque chose"
+    propagate_case: true
   
   - trigger: "pcq"
     replace: "parce que"
+    propagate_case: true
 
   - trigger: "flower"
     replace: "FlowerDocs"
@@ -28,72 +34,82 @@ matches:
 
   - trigger: ":modif"
     replace: "modification"
+    propagate_case: true
 
   - trigger : 'tjr'
     replace : 'toujours'
+    propagate_case: true
 
   - trigger : 'ojd'
     replace : "aujourd'hui"
+    propagate_case: true
     
   - trigger : 'stv'
     replace : "si tu veux"
+    propagate_case: true
 
   - trigger : 'lgtp'
     replace : "longtemps"
+    propagate_case: true
   
   - trigger : 'bcp'
     replace : "beaucoup"
+    propagate_case: true
 
   - trigger : 'aprem'
     replace : "après midi"
+    propagate_case: true
 
-  - trigger : 'TT'
-    replace : "télétravail"
-    word : true
-  
   - trigger : 'tt'
     replace : "télétravail"
     word : true
-
+    propagate_case: true
+  
   - trigger : 'c est'
     replace : "c'est"
+    propagate_case: true
 
   - trigger : 'slt'
     replace : "salut"
+    propagate_case: true
   
   - trigger : 'we'
     replace : 'week-end'
     word : true
-  
-  - trigger : 'WE'
-    replace : 'week-end'
-    word : true
- 
+    propagate_case: true
+
   - trigger : 'cad'
     replace : "c'est à dire"
     word: true
+    propagate_case: true
 
   - trigger : 'tqt'
     replace : "ne t'inquiète pas"
+    propagate_case: true
 
   - trigger : 'dsl'
     replace : "désolé"
+    propagate_case: true
 
   - trigger : 'ya'
     replace : 'il y a'
     word : true
+    propagate_case: true
 
   - trigger : 'yavait'
     replace : 'il y avait'
     word : true
+    propagate_case: true
 
   - trigger : 'mdp'
     replace : 'mot de passe'
     word : true
+    propagate_case: true
 
   - trigger : 'a+'
-    replace : 'A plus tard'
+    replace : 'à plus tard'
     word : true
+    propagate_case: true
 
   - trigger: 'eleve'
     replace: 'élève'
