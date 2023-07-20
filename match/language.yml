@@ -2009,3 +2009,8 @@ matches:
     replace : 'censé'
     word : true
     propagate_case: true
+
+  - trigger: 'pret'
+    replace: 'prêt'
+    word: true
+    propagate_case: true
