@@ -43,7 +43,7 @@ matches:
 
 
   - trigger: :conf
-    replace: "%appdata%\\espanso\\match\\base.yml"
+    replace: "%appdata%\\espanso\\match"
 
   - trigger: ":ip"
     replace: "{{output}}"

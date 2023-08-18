@@ -3893,10 +3893,6 @@ matches:
   replace: choice
   propagate_case: true
   word: true
-- trigger: choses
-  replace: chooses
-  propagate_case: true
-  word: true
 - trigger: chosing
   replace: choosing
   propagate_case: true
