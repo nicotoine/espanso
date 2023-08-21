@@ -7509,10 +7509,6 @@ matches:
   replace: examine
   propagate_case: true
   word: true
-- trigger: exemple
-  replace: example
-  propagate_case: true
-  word: true
 - trigger: exmaple
   replace: example
   propagate_case: true
