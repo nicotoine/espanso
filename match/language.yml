@@ -96,6 +96,11 @@ matches:
     word : true
     propagate_case: true
 
+  - trigger : 'yapa'
+    replace : "il n'y a pas"
+    word : true
+    propagate_case: true
+
   - trigger : 'yavait'
     replace : 'il y avait'
     word : true
