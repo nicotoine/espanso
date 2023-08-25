@@ -942,11 +942,6 @@ matches:
     propagate_case: true
     word : true
     
-  - trigger: 'jamais'
-    replace: 'jâmais'
-    propagate_case: true
-    word : true
-    
   - trigger: 'joute'
     replace: 'joûte'
     propagate_case: true
@@ -2019,3 +2014,18 @@ matches:
     replace: 'prêt'
     word: true
     propagate_case: true
+  
+  - trigger: 'tres'
+    replace: 'très'
+    propagate_case: true
+    word : true
+
+  - trigger: 'aie'
+    replace: 'aïe'
+    propagate_case: true
+    word : true
+
+  - trigger: 'maniere'
+    replace: 'manière'
+    propagate_case: true
+    word : true
