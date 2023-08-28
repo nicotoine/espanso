@@ -2050,3 +2050,7 @@ matches:
     propagate_case: true
     word : true
 
+  - trigger: 'bientot'
+    replace: 'bientôt'
+    propagate_case: true
+    word : true
