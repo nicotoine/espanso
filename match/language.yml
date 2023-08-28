@@ -2029,3 +2029,24 @@ matches:
     replace: 'manière'
     propagate_case: true
     word : true
+  
+  - trigger: 'reaction'
+    replace: 'réaction'
+    propagate_case: true
+    word : true
+  
+  - trigger: 'priorite'
+    replace: 'priorité'
+    propagate_case: true
+    word : true
+  
+  - trigger: 'tot'
+    replace: 'tôt'
+    propagate_case: true
+    word : true
+
+  - trigger: 'plutot'
+    replace: 'plutôt'
+    propagate_case: true
+    word : true
+
