@@ -51,5 +51,5 @@ matches:
       - name: output
         type: shell
         params:
-          cmd: "curl 'https://api.ipify.org'"
+          cmd: "hostname -I"
           shell: wsl

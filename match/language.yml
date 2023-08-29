@@ -267,6 +267,11 @@ matches:
     propagate_case: true
     word : true
     
+  - trigger: 'memes'
+    replace: 'mêmes'
+    propagate_case: true
+    word : true
+    
   - trigger: 'depot'
     replace: 'dépôt'
     propagate_case: true
