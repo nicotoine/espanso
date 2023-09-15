@@ -10,3 +10,6 @@ matches:
   
   - trigger: ":tkill"
     replace: "taskkill /f /pid"
+
+  - trigger: ":getport"
+    replace: "netstat -aon"
