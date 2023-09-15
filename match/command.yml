@@ -9,7 +9,10 @@ matches:
     replace: "taskkill /im \"java.exe\" /f"
   
   - trigger: ":tkill"
-    replace: "taskkill /f /pid"
+    replace: "taskkill /F /pid"
+ 
+  - regex: ":getport(?P<port>.*)\\s"
+    replace: 'netstat -aon | findstr /c:"{{port}}"'
 
-  - trigger: ":getport"
-    replace: "netstat -aon"
+  - trigger: ":vpnkill"
+    replace: "sc stop TracSrvWrapper"
