@@ -7621,14 +7621,6 @@ matches:
   replace: exist
   propagate_case: true
   word: true
-- trigger: existance
-  replace: existence
-  propagate_case: true
-  word: true
-- trigger: existant
-  replace: existent
-  propagate_case: true
-  word: true
 - trigger: exisiting
   replace: existing
   propagate_case: true
