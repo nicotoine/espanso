@@ -212,11 +212,6 @@ matches:
     propagate_case: true
     word : true
     
-  - trigger: 'the'
-    replace: 'thé'
-    propagate_case: true
-    word : true
-    
   - trigger: 'cite'
     replace: 'cité'
     propagate_case: true
