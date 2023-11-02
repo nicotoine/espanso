@@ -67,6 +67,7 @@ matches:
   
   - trigger : 'c est'
     replace : "c'est"
+    word : true
     propagate_case: true
 
   - trigger : 'slt'
